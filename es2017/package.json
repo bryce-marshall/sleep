@@ -1,0 +1,17 @@
+{
+  "name": "@brycemarshall/sleep",
+  "version": "3.0.0",
+  "description": "A function that causes the current execution context to be suspended (thereby surrendering execution to any scheduled background tasks such as timeout, interval, and immediate events) for the specified duration. This is the ES2017 build.",
+  "main": "index",
+  "keywords": [
+    "sleep",
+    "timeout",
+    "time out",
+    "async",
+    "await"
+  ],
+  "author": "Bryce Marshall",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
