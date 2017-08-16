@@ -2,6 +2,10 @@
   "name": "@brycemarshall/sleep",
   "version": "1.0.0",
   "description": "A function that causes the current execution context to be suspended (thereby surrendering execution to any scheduled background tasks such as timeout, interval, and immediate events) for the specified duration. This is the ES5 build.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bryce-marshall/sleep.git"
+  },  
   "main": "index",
   "keywords": [
     "sleep",
